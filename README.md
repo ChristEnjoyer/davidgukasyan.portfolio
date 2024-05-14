@@ -1,4 +1,3 @@
 # davidgukasyan.portfolio
 A portfolio containing some of my work over the past 6 months.
-
-It is recommended that viewers read the Descriptions/Guides associated with each portfolio item.
+It is recommended that viewers read any descriptions, guides, and disclaimers associated with each portfolio item.
